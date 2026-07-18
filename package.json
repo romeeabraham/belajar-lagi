@@ -1,0 +1,7 @@
+{
+  "name": "belajar-sast",
+  "version": "1.0.0",
+  "description": "Simulasi SAST",
+  "main": "app.js",
+  "dependencies": {}
+}
